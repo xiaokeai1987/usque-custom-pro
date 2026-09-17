@@ -3,8 +3,6 @@
 > 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。  
 > 支持 **Cloudflare Pages + Cloudflare Workers 双部署**，浏览器完成 Usque 注册、原生配置保存、MASQUE 多节点生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。
 >
-> # YouTube视频教程 [点击查看](https://youtu.be/eRIjgiVHsbs)
-> # v6.17 视频教程 [点击查看](https://youtu.be/GREPEjjRQwc)
 ---
 
 ## 目录
@@ -522,6 +520,25 @@ usque-custom-pro-v67-dual/
 
 这是最推荐的部署方式，因为以后更新代码只需要 Git Push。
 
+生产分支
+
+main
+
+框架预设
+
+无
+
+构建命令
+
+exit 0
+构建输出目录
+
+英文状态下的.点
+
+根目录（高级）
+
+
+pages
 ### 第 1 步：上传项目到 GitHub
 
 GitHub 仓库建议保持：
